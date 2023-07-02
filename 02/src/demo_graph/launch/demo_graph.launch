@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="demo_graph" type="demo_graph" name="demo_graph" output="screen" />
+</launch>
+    

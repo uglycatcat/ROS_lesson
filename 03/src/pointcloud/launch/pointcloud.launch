@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="pointcloud" type="pointcloud" name="pointcloud" />
+</launch>
